@@ -1,6 +1,6 @@
 <a href="https://www.RepreZen.com/OpenAPI"><img src="https://www.reprezen.com/hubfs/RepreZen_logo_no_trademark-(RGB-1024w).png" width="324"/></a>
-# OpenAPI Essentials Workshop Exercises
-This project has exercises and solutions for the  OpenAPI Essentials Workshop. 
+# OpenAPI v3 Hands-On Workshop Exercises
+This project has exercises and solutions for the  OpenAPI Hands-On Workshop. 
 
 Source files are in OpenAPI 3.0 format.
 
@@ -8,7 +8,7 @@ Workshop attendees can download or clone the repository to a writable folder to 
 
 ## OpenAPI Editing Tools
 
-There are many commercial and open source editors for OpenAPI. You can work with the following tools, or any other editing environment that supports OpenAPI 3.0.
+There are many commercial and open source editors for OpenAPI. You can work with the following tools, or any other editing environment that supports OpenAPI 3.0. We recommand using a tool with a side-by-side editor and documentation view.
 
 ### RepreZen API Studio
 * [API Studio Desktop](https://www.RepreZen.com/trial-offer)<br/>Standalone API design workbench for Windows, macOS, or Linux (beta).
